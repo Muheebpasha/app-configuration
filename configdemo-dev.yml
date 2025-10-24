@@ -1,5 +1,0 @@
-build:
-  id: 2010101
-  version: 2.2.3
-  name: "GIT-Development-Build"
-  type: "GIT Development Build"
