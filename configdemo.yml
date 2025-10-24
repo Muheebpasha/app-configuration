@@ -1,5 +1,0 @@
-build:
-  id: 1010101
-  version: 1.2.3
-  name: "GIT-Default-Build"
-  type: "GIT Default Build"
