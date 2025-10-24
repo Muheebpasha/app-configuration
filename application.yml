@@ -1,0 +1,12 @@
+global
+  message: "Welcome to Microservices World!"
+
+spring:
+  profiles:
+    active: default
+
+logging:
+  level:
+    root: INFO
+    com.example: DEBUG
+    
